@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+nav {
+	text-align: right;
+}
+body {
+	background-color: #fffeee;
+}
+h1 {
+	color: #0bd;
+	fontsize: 30px;
+	text-align: justify;
+}
